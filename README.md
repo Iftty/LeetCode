@@ -1,2 +1,2 @@
-# hello-world
-这个文件是测试用的
+# LeetCode
+这个文件用于LeetCode的练习
