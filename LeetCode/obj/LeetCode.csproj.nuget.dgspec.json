@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LeetCode\\LeetCode\\LeetCode\\LeetCode.csproj": {}
+    "E:\\Git\\LeetCode\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "E:\\LeetCode\\LeetCode\\LeetCode\\LeetCode.csproj": {
+    "E:\\Git\\LeetCode\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LeetCode\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "E:\\Git\\LeetCode\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "E:\\LeetCode\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectPath": "E:\\Git\\LeetCode\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\docker\\.nuget\\packages\\",
-        "outputPath": "E:\\LeetCode\\LeetCode\\LeetCode\\obj\\",
+        "outputPath": "E:\\Git\\LeetCode\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\docker\\AppData\\Roaming\\NuGet\\NuGet.Config",
